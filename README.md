@@ -1,4 +1,4 @@
-# mt-plugin-lonelyassets
+# LonelyAssets
 A MovableType plugin to filter being not related assets at listing screen of assets.
 
 ## Requirements
